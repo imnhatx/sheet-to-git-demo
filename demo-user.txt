@@ -6,5 +6,5 @@ Ng?y: 2024-10-08 23:29:53, Email: th@gmail.com, SDT: 1475, Serial_number: NJ93N1
 Ng?y: 2024-10-08 23:32:19, Email: gd@gmail.com, SDT: 23, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N7876
 Ng?y: 2024-10-10 23:12:00, Email: tre@gmail.com, SDT: 342, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N2628
 Ng?y: 2024-10-10 23:17:39, Email: tryhf@gmail.com, SDT: 32323, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N7380
-Ng?y: 2024-10-10 23:18:21, Email: , SDT: 568423, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N9040
+Ng?y: 2024-10-10 23:18:21, Email: asdawew@gmail.com, SDT: 568423, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N9040
 Ng?y: 1970-01-01 08:00:00, Email: , SDT: , Serial_number: , activation_code: 
