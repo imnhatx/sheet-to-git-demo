@@ -1,4 +1,1 @@
-Ng?y: 2024-11-15 11:22:32, Email: nhatx@gmail.com, SDT: 123, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N2159
-Ng?y: 2024-11-15 11:29:06, Email: vb@gmail.com, SDT: 456, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N6973
-Ng?y: 2024-11-15 11:48:41, Email: bg@gmail.com, SDT: 123, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N3121
-Ng?y: 1970-01-01 08:00:00, Email: ???, SDT: ?d, Serial_number: ??, activation_code: ?d
+Ng?y: 1970-01-01 08:00:00, Email: , SDT: , Serial_number: , activation_code: 
