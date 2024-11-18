@@ -1,4 +1,4 @@
-Ng?y: 2024-11-15 11:56:39, Email: bg@gmail.com, SDT: 123, Serial_number: NJ93N194710503K3P   _00000001., activation_code: 
-Ng?y: 2024-11-15 13:40:19, Email: nhty@gmail.com, SDT: 789465, Serial_number: NJ93N194710503K3P   _00000001., activation_code: 
-Ng?y: 2024-11-17 22:35:31, Email: nhtg@gmail.com, SDT: 386985487, Serial_number: 6479_A76D_4AD0_060D., activation_code: 
-Ng?y: 2024-11-17 22:37:57, Email: nhatx@gmail.com, SDT: 386598658, Serial_number: 6479_A76D_4AD0_060D., activation_code: 
+Ng?y: 2024-11-15 11:56:39, Email: bg@gmail.com, SDT: 123, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N3121
+Ng?y: 2024-11-15 13:40:19, Email: nhty@gmail.com, SDT: 789465, Serial_number: NJ93N194710503K3P   _00000001., activation_code: NJ93N2701
+Ng?y: 2024-11-17 22:35:31, Email: nhtg@gmail.com, SDT: 386985487, Serial_number: 6479_A76D_4AD0_060D., activation_code: 6479_7447
+Ng?y: 2024-11-17 22:37:57, Email: nhatx@gmail.com, SDT: 386598658, Serial_number: 6479_A76D_4AD0_060D., activation_code: 6479_9645
